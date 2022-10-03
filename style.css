@@ -1,0 +1,19 @@
+.card-group  {
+    justify-content: space-between;
+
+}
+.card {
+    height: 400px;
+    width: 400px;
+}
+.card-circle {
+    display: flex;
+    justify-content: center;
+}
+.circulo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    
+
+}
