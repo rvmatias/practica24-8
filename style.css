@@ -14,6 +14,26 @@
     width: 200px;
     height: 200px;
     border-radius: 100%;
-    
+    }
+.genero {
+    height: 500px;
+    width: 100%;
+    display: flex;
 
 }
+.hombre {
+    width: 396px;
+    background-image: url(img/pexels-godisable-jacob-794062.jpg);
+    background-repeat: no-repeat;
+}
+.mujer {
+    width: 396px;
+    background-image: url(img/pexels-philip-boakye-1813947.jpg);
+    background-repeat: no-repeat;
+}
+.niño {
+    width: 396px;
+    background-image: url( img/pexels-bess-hamiti-35188.jpg);
+    background-repeat: no-repeat;
+}
+
